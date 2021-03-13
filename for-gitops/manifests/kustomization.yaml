@@ -5,7 +5,7 @@ resources:
 - deployment.yaml
 - services.yaml
 - services2.yaml
-- ingress.yaml
+- ingress-main.yaml
 images:
 - name: IMAGE-PINGPONG
   newName: georgemihail/ping-connecting-pods
